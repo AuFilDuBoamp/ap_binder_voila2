@@ -1,0 +1,9 @@
+voila
+jupyterlab
+ipywidgets  
+xleaflet
+xeus-clin
+python
+pandas
+ipyleaflet
+IPython
