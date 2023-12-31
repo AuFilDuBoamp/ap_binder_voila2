@@ -1,0 +1,7 @@
+voila
+jupyterlab
+ipywidgets  
+python
+pandas
+ipyleaflet
+IPython
