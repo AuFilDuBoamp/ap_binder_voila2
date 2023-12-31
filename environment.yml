@@ -2,6 +2,7 @@ name: voila
 channels:
   - conda-forge
 dependencies:
+  - voila
   - jupyterlab
   - ipywidgets  
   - xleaflet
@@ -9,4 +10,4 @@ dependencies:
   - python
   - pandas
   - ipyleaflet
-  - Ipython
+  - IPython
